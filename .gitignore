@@ -1,0 +1,9 @@
+# Ignorar PyCharm/.idea
+.idea/
+
+# Ignorar archivos de bytecode de Python
+*.pyc 
+__pycache__/
+
+# Otros archivos que no quiero versionar
+*.log
