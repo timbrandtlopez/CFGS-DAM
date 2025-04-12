@@ -1,5 +1,8 @@
-# Ignorar PyCharm/.idea
+# Ignorar PyCharm/.idea IntelliJ/.idea
 .idea/
+
+# Ignorar directorio out de PyCharm e IntelliJ
+out/
 
 # Ignorar archivos de bytecode de Python
 *.pyc 
