@@ -1,0 +1,11 @@
+.destacado{
+    color: saddlebrown;
+    font-weight: bold;
+    background-color:rgb(153, 219, 245); 
+}
+
+#importante{
+    color: red;
+    font-size: 30px;
+    background-color: antiquewhite;
+}
